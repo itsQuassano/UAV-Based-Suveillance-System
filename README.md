@@ -59,12 +59,4 @@ The **UAV-Based Surveillance System** is an advanced solution leveraging autonom
 ## Contributing  
 Contributions are welcome! Feel free to fork this repository and submit pull requests.  
 
-## License  
-This project is licensed under the [MIT License](LICENSE).  
-
-## Acknowledgments  
-- [Your Name/Team Name]  
-- Technologies and frameworks used.  
-- Supporters and collaborators.  
-
 Let me know if you'd like further refinements! 🚀  
